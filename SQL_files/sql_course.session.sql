@@ -31,3 +31,6 @@ GROUP BY
 ORDER BY
     job_count DESC
 LIMIT 5;
+
+SELECT *
+FROM skills_job_dim;
