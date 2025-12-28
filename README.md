@@ -32,7 +32,7 @@ Highest demand skills:
 
 - R
 
-![Most In-Demand Skills](assets\most_in_demand_skills.png)
+![Most In-Demand Skills](/assets/most_in_demand_skills.png)
 
 
 ***Key insights:***
@@ -64,7 +64,7 @@ Top paying skills include:
 
 - Golang
 
-![Top Paying Skills](assets\highest_paying_skills.png)
+![Top Paying Skills](/assets/highest_paying_skills.png)
 
 Key insights:
 
@@ -105,7 +105,7 @@ Key Insights
 
 - "Niche" skills like Spark, Snowflake, and Looker have fewer job openings but pay significantly more than ubiquitous skills like Excel or Word.
 
-![Job Demand vs Avg Salary](assets\Code_Generated_Image.png)
+![Job Demand vs Avg Salary](/assets/Code_Generated_Image.png)
 
 ### 2.4 Skill Strategy Interpretation
 Based on the analysis, skills fall into three strategic categories:
